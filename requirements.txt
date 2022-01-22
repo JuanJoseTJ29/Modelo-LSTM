@@ -8,4 +8,5 @@ lxml==4.5.1
 pandas_datareader
 tensorflow
 keras
+scikit-learn
 
